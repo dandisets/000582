@@ -74,19 +74,19 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-07-17T08:18:23.034598+00:00'
-description: "The dataset includes spike times for recorded conjunctive and head direction
-  cells from the medial entorhinal cortex (MEC) in rats that explored two-dimensional
-  environments. The behavioral data includes position from the tracking LEDs. \n\nThis
-  sample was published in Sargolini et al. (Science, 2006).\n\nAbstract\nGrid cells
-  in the medial entorhinal cortex (MEC) are part of an environment-independent spatial
-  coordinate system. To determine how information about location, direction, and distance
-  is integrated in the grid-cell network, we recorded from each principal cell layer
-  of MEC in rats that explored two-dimensional environments. Whereas layer II was
-  predominated by grid cells, grid cells colocalized with head-direction cells and
-  conjunctive grid x head-direction cells in the deeper layers. All cell types were
-  modulated by running speed. The conjunction of positional, directional, and translational
-  information in a single MEC cell type may enable grid coordinates to be updated
-  during self-motion-based navigation.\n"
+description: "The dataset includes spike times for recorded grid cells from the medial
+  entorhinal cortex (MEC) in rats that explored two-dimensional environments. The
+  behavioral data includes position from the tracking LEDs. \n\nThis sample was published
+  in Sargolini et al. (Science, 2006).\n\nGrid cells in the medial entorhinal cortex
+  (MEC) are part of an environment-independent spatial coordinate system. To determine
+  how information about location, direction, and distance is integrated in the grid-cell
+  network, we recorded from each principal cell layer of MEC in rats that explored
+  two-dimensional environments. Whereas layer II was predominated by grid cells, grid
+  cells colocalized with head-direction cells and conjunctive grid x head-direction
+  cells in the deeper layers. All cell types were modulated by running speed. The
+  conjunction of positional, directional, and translational information in a single
+  MEC cell type may enable grid coordinates to be updated during self-motion-based
+  navigation.\n"
 ethicsApproval: []
 id: DANDI:000582/draft
 identifier: DANDI:000582
