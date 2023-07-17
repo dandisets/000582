@@ -105,6 +105,10 @@ relatedResource:
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://doi.org/10.1126/science.1125572
+- name: Grid cell data
+  relation: dcite:IsSupplementTo
+  schemaKey: Resource
+  url: https://www.ntnu.edu/kavli/research/grid-cell-data
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
