@@ -8,30 +8,30 @@ access:
   status: dandi:OpenAccess
 assetsSummary:
   approach:
-  - name: behavioral approach
-    schemaKey: ApproachType
   - name: electrophysiological approach
+    schemaKey: ApproachType
+  - name: behavioral approach
     schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: analytical technique
-    schemaKey: MeasurementTechniqueType
-  - name: behavioral technique
+  - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
-  - name: spike sorting technique
+  - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 1862050055
-  numberOfFiles: 118
-  numberOfSubjects: 15
+  numberOfBytes: 1705196087
+  numberOfFiles: 109
+  numberOfSubjects: 12
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
@@ -39,12 +39,12 @@ assetsSummary:
     schemaKey: SpeciesType
   variableMeasured:
   - ElectrodeGroup
-  - LFP
-  - Units
   - Position
+  - Units
   - ElectricalSeries
-  - SpatialSeries
   - ProcessingModule
+  - SpatialSeries
+  - LFP
 citation: Sargolini, Francesca; Fyhn, Marianne; Hafting, Torkel; McNaughton, Bruce
   L.; Witter, Menno P.; Moser, May-Britt; Moser, Edvard I.; Waade, Haagen; Ball, Simon
   (2023) Conjunctive Representation of Position, Direction, and Velocity in Entorhinal
