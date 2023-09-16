@@ -17,34 +17,34 @@ assetsSummary:
     name: Neurodata Without Borders (NWB)
     schemaKey: StandardsType
   measurementTechnique:
-  - name: spike sorting technique
-    schemaKey: MeasurementTechniqueType
-  - name: surgical technique
-    schemaKey: MeasurementTechniqueType
-  - name: multi electrode extracellular electrophysiology recording technique
-    schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 1705196087
-  numberOfFiles: 109
-  numberOfSubjects: 12
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 1812381475
+  numberOfFiles: 115
+  numberOfSubjects: 14
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
     name: Rattus norvegicus - Norway rat
     schemaKey: SpeciesType
   variableMeasured:
-  - ElectrodeGroup
+  - ElectricalSeries
   - Position
   - Units
-  - ElectricalSeries
+  - ElectrodeGroup
   - ProcessingModule
-  - SpatialSeries
   - LFP
+  - SpatialSeries
 citation: Sargolini, Francesca; Fyhn, Marianne; Hafting, Torkel; McNaughton, Bruce
   L.; Witter, Menno P.; Moser, May-Britt; Moser, Edvard I.; Waade, Haagen; Ball, Simon
   (2023) Conjunctive Representation of Position, Direction, and Velocity in Entorhinal
