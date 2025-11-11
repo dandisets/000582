@@ -49,7 +49,7 @@ assetsSummary:
 citation: Sargolini, Francesca; Fyhn, Marianne; Hafting, Torkel; McNaughton, Bruce
   L.; Witter, Menno P.; Moser, May-Britt; Moser, Edvard I.; Waade, Haagen; Ball, Simon
   (2025) Conjunctive Representation of Position, Direction, and Velocity in Entorhinal
-  Cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000582/draft
+  Cortex (Version 0.251111.2151) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000582/0.251111.2151
 contributor:
 - affiliation: []
   identifier: 0000-0002-5038-3746
@@ -124,14 +124,15 @@ description: "The dataset includes spike times for recorded grid cells from the 
   conjunction of positional, directional, and translational information in a single
   MEC cell type may enable grid coordinates to be updated during self-motion-based
   navigation.\n"
+doi: 10.48324/dandi.000582/0.251111.2151
 ethicsApproval: []
-id: DANDI:000582/draft
+id: DANDI:000582/0.251111.2151
 identifier: DANDI:000582
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000582/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000582/0.251111.2151/assets.yaml
 name: Conjunctive Representation of Position, Direction, and Velocity in Entorhinal
   Cortex
 protocol: []
@@ -162,8 +163,8 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000582/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000582/0.251111.2151
+version: 0.251111.2151
 wasGeneratedBy:
 - description: Metadata (contributor, name, relatedResource) was enhanced with data
     from DOI https://doi.org/10.1126/science.1125572 by DANDI cli
