@@ -121,6 +121,15 @@ contributor:
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
+  includeInCitation: false
+  name: Weigl, Szonja
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
 dateCreated: '2023-07-17T08:18:23.034598+00:00'
 description: "The dataset includes spike times for recorded grid cells from the medial
   entorhinal cortex (MEC) in rats that explored two-dimensional environments. The
